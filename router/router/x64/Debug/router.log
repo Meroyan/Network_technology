@@ -1,0 +1,5 @@
+﻿  router.cpp
+D:\Code\C++\WangJi\router\router\router.cpp(218,22): warning C4018: “<”: 有符号/无符号不匹配
+  源.cpp
+  正在生成代码...
+  router.vcxproj -> D:\Code\C++\WangJi\router\x64\Debug\router.exe

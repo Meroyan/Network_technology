@@ -1,0 +1,4 @@
+﻿  mac.cpp
+D:\Code\C++\WangJi\MAC\MAC\mac.cpp(79,78): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+D:\Code\C++\WangJi\MAC\MAC\mac.cpp(112,13): warning C4101: “packet”: 未引用的局部变量
+  MAC.vcxproj -> D:\Code\C++\WangJi\MAC\x64\Debug\MAC.exe
